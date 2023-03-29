@@ -28,7 +28,7 @@ for x in range(width):
             gb=-gb
         
         
-        if rb<50 and rg<50  and gb<50:
+        if rb<50 and rg<50  and gb<50 and b>50 and b<200:
             image.putpixel((x, y), (r,g,255 ))
 
 # salva a imagem modificada
