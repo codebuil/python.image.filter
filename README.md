@@ -19,3 +19,5 @@ get you test pictures color
 on 
 
 https://www.bing.com/images/create?FORM=GDPUP2
+
+use python image21.py to create a control image all other are filters
